@@ -8,6 +8,6 @@ The repository contains:
 
 These resources are provided to support the reproducibility of the results presented in the paper and to facilitate future research on weak-grid stability assessment and WG-PMSG-SSO analysis.
 
-Cite: T. Zamzam, Y. Qiblawey, A. Alassi, H. Abu-Rub, A. Massoud and A. Ghrayeb, "A Network-Side Assessment Framework and Benchmark System for Weak-Grid PMSG-Based Subsynchronous Oscillations," in IEEE Open Journal of the Industrial Electronics Society, vol. 7, pp. 1401-1420, 2026, doi: 10.1109/OJIES.2026.3724912.
+**Cite**: T. Zamzam, Y. Qiblawey, A. Alassi, H. Abu-Rub, A. Massoud and A. Ghrayeb, "A Network-Side Assessment Framework and Benchmark System for Weak-Grid PMSG-Based Subsynchronous Oscillations," in IEEE Open Journal of the Industrial Electronics Society, vol. 7, pp. 1401-1420, 2026, doi: 10.1109/OJIES.2026.3724912.
 
 
